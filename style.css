@@ -235,6 +235,9 @@ nav a:hover {
 	.footer {
 		color: white;
 	}
-
+	.join {
+		font-size: 18;
+		height: 10px;
+	}
 	
 }
